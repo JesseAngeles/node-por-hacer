@@ -1,9 +1,14 @@
-## Aplicacion de comandos
+# node-por-hacer
 
-Este es el ejercicio de curso
+Aplicación de tareas (to-do) por línea de comandos en Node.js. Proyecto de práctica del curso de Node.js.
 
-Instalar paquetes de node:
+## Tecnologías
 
-```
-npm install
+- Node.js
+- JavaScript
+
+## Ejecución
+
+```bash
+node app.js
 ```
